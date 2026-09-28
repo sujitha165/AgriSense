@@ -1,0 +1,18 @@
+{
+  "name": "agrisense-workspace",
+  "version": "1.0.0",
+  "description": "AgriSense - Smart Detection. Better Decisions. Healthier Crops.",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "agrisense",
+    "smart-agriculture",
+    "crop-disease-detection",
+    "farming"
+  ],
+  "author": "AgriSense Team",
+  "license": "MIT"
+}
